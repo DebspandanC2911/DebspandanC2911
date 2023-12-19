@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DebspandanC2911
+- 👋 Hi, I’m @Debspandan
 - 👀 I’m interested in coding, modifying contest coding questions to learn something new, cooking, cricket and all that's in buzz at the current moment.
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on projects specifically needing contribution on HTML, CSS, Js.
