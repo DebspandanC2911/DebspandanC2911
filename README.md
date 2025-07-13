@@ -1,5 +1,7 @@
+<img width="2560" height="1440" alt="Black Gray Simple Vlogger YouTube Banner" src="https://github.com/user-attachments/assets/d97c543c-2be9-4762-b9e0-28d26bcc4ef0" />
 
 ## 🌐 Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/debspandan-chakraborty) 
 
 # 💻 Tech Stack:
